@@ -1,0 +1,8 @@
+aiogram
+os
+hub
+numpy
+PIL
+random
+tensorflow
+tensorflow_hub
